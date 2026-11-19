@@ -1,8 +1,8 @@
 class Nohead < Formula
   desc "Command-line interface for Nohead"
   homepage "https://nohead.io"
-  url "https://registry.npmjs.org/@nohead/cli/-/cli-0.9.0.tgz"
-  sha256 "b944cefede1987deedd7fefcb82abee3b89ce03321c56f479398ae036993daf3"
+  url "https://registry.npmjs.org/@nohead/cli/-/cli-0.10.0.tgz"
+  sha256 "5e882f22f4ace5159b7e553dd0727098092d7f7357d36d00f7f7669cf34117f6"
   license "MIT"
 
   livecheck do
